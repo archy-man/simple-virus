@@ -5,8 +5,8 @@ Run this on YOUR OWN machine to scan running processes for indicators
 commonly associated with keylogger / input-capture malware, and
 terminate ONLY the specific matching process(es) — never a blanket
 "kill everything with this name" approach.
-
-Why not `taskkill /f /im python.exe`?
+hay hya hay man thai this htis htis htis htis  ma name is yes yes yes 
+Why not `taskkill /f /im python.exe`?hay hhahhhi hau hu hi hi hi hi hi hi hihi
   - It kills every Python process on the system, including unrelated
     scripts, your IDE's language server, Jupyter kernels, even this
     detector itself if it's also Python. That's not a defense, it's
